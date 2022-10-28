@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    background-color: black;
+    
+    }
+    @media only screen and(max-width: 800px) {
+
+        /* for mobile phones: */ 
+    
+      #VA_logo{
+        position: absolute;
+       height:auto;
+       min-width:300px;
+       width:300px;
+     
+       top: 10px;
+       left:0px;
+       }
+    }
+     
